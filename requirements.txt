@@ -1,0 +1,7 @@
+# library
+pandas>=1.5.0
+numpy>=1.23.3
+
+# for tests
+pytest>=7.2.0
+ta-lib>=0.4.25
